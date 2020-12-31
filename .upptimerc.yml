@@ -1,13 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: essels # Your GitHub username
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Accessoires KIA Belgium
-    url: https://https://accessoires-kia.be/ht
+    url: https://accessoires-kia.be/ht
   - name: Accessoires KIA Lu
-    url: https://https://accessoires-kia.lu/ht
+    url: https://accessoires-kia.lu/ht
   - name: Makhzan
     url: https://makhzan.org
   - name: Mobis Marketing Platform
