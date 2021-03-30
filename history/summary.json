@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.be",
     "slug": "amp-kia-be",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.86%",
     "time": 845,
-    "timeDay": 961,
-    "timeWeek": 886,
+    "timeDay": 810,
+    "timeWeek": 867,
     "timeMonth": 808,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-31": 173
+    }
   },
   {
     "name": "AMP KIA LU",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.lu",
     "slug": "amp-kia-lu",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 997,
-    "timeWeek": 940,
-    "timeMonth": 845,
-    "timeYear": 866,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.86%",
+    "time": 865,
+    "timeDay": 729,
+    "timeWeek": 902,
+    "timeMonth": 841,
+    "timeYear": 865,
+    "dailyMinutesDown": {
+      "2020-12-31": 173
+    }
   },
   {
     "name": "MAKHZAN",
@@ -41,16 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/makhzan.org",
     "slug": "makhzan",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 1055,
-    "timeWeek": 993,
-    "timeMonth": 823,
-    "timeYear": 839,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.86%",
+    "time": 838,
+    "timeDay": 736,
+    "timeWeek": 929,
+    "timeMonth": 820,
+    "timeYear": 838,
+    "dailyMinutesDown": {
+      "2020-12-31": 173
+    }
   }
 ]
