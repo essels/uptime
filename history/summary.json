@@ -4,10 +4,10 @@
     "url": "https://accessoires-kia.be",
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.be",
     "slug": "amp-kia-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 831,
@@ -15,16 +15,18 @@
     "timeWeek": 954,
     "timeMonth": 937,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-15": 2
+    }
   },
   {
     "name": "AMP KIA LU",
     "url": "https://accessoires-kia.lu",
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.lu",
     "slug": "amp-kia-lu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1012,
     "timeMonth": 1028,
     "timeYear": 889,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-15": 0
+    }
   },
   {
     "name": "MAKHZAN",
