@@ -4,19 +4,19 @@
     "url": "https://accessoires-kia.be",
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.be",
     "slug": "amp-kia-be",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 831,
-    "timeDay": 791,
-    "timeWeek": 954,
-    "timeMonth": 937,
+    "timeDay": 798,
+    "timeWeek": 935,
+    "timeMonth": 932,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2021-10-15": 2
+      "2021-10-15": 33
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://accessoires-kia.lu",
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.lu",
     "slug": "amp-kia-lu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 889,
-    "timeDay": 828,
-    "timeWeek": 1012,
-    "timeMonth": 1028,
+    "timeDay": 841,
+    "timeWeek": 992,
+    "timeMonth": 1023,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2021-10-15": 0
+      "2021-10-15": 31
     }
   },
   {
