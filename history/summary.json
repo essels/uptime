@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 875,
-    "timeDay": 838,
-    "timeWeek": 1074,
-    "timeMonth": 1002,
-    "timeYear": 875,
+    "time": 876,
+    "timeDay": 1243,
+    "timeWeek": 1088,
+    "timeMonth": 1007,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2021-10-15": 33
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 912,
-    "timeDay": 741,
-    "timeWeek": 975,
-    "timeMonth": 949,
+    "timeDay": 1119,
+    "timeWeek": 989,
+    "timeMonth": 950,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2021-10-15": 31
@@ -45,18 +45,19 @@
     "icon": "https://favicons.githubusercontent.com/makhzan.org",
     "slug": "makhzan",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.68%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.68%",
     "time": 950,
-    "timeDay": 832,
-    "timeWeek": 1086,
-    "timeMonth": 1061,
+    "timeDay": 0,
+    "timeWeek": 1065,
+    "timeMonth": 1057,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2021-12-28": 0,
+      "2021-12-29": 11,
+      "2021-12-28": 208,
       "2021-07-02": 759,
       "2021-07-01": 706
     }
