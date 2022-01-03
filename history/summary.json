@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 879,
-    "timeDay": 1166,
-    "timeWeek": 1107,
-    "timeMonth": 1022,
-    "timeYear": 877,
+    "timeDay": 945,
+    "timeWeek": 1063,
+    "timeMonth": 1028,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2021-10-15": 33
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 913,
-    "timeDay": 1029,
-    "timeWeek": 990,
-    "timeMonth": 953,
-    "timeYear": 911,
+    "timeDay": 859,
+    "timeWeek": 953,
+    "timeMonth": 961,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2021-10-15": 31
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/makhzan.org",
     "slug": "makhzan",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.09%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.51%",
-    "time": 952,
-    "timeDay": 1035,
-    "timeWeek": 1070,
-    "timeMonth": 1068,
-    "timeYear": 950,
+    "time": 953,
+    "timeDay": 1178,
+    "timeWeek": 1068,
+    "timeMonth": 1079,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2021-12-29": 892,
       "2021-12-28": 208,
