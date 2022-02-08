@@ -4,9 +4,9 @@
     "url": "https://accessoires-kia.be",
     "icon": "https://favicons.githubusercontent.com/accessoires-kia.be",
     "slug": "amp-kia-be",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 1004,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2022-02-08": 0,
       "2022-01-20": 110,
       "2021-10-15": 33
     }
