@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 895,
-    "timeDay": 801,
-    "timeWeek": 782,
-    "timeMonth": 780,
+    "timeDay": 797,
+    "timeWeek": 795,
+    "timeMonth": 773,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2022-01-20": 110
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 929,
-    "timeDay": 904,
-    "timeWeek": 885,
-    "timeMonth": 815,
-    "timeYear": 915,
+    "timeDay": 767,
+    "timeWeek": 868,
+    "timeMonth": 809,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2022-01-20": 109
     }
@@ -46,14 +46,14 @@
     "slug": "makhzan",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "6.77%",
+    "uptimeDay": "35.21%",
     "uptimeWeek": "86.68%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "99.46%",
-    "time": 812,
-    "timeDay": 505,
-    "timeWeek": 635,
-    "timeMonth": 640,
+    "time": 811,
+    "timeDay": 752,
+    "timeWeek": 659,
+    "timeMonth": 642,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2022-11-29": 955,
