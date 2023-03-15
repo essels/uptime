@@ -4,19 +4,19 @@
     "url": "https://accessoires-kia.be",
     "icon": "https://icons.duckduckgo.com/ip3/accessoires-kia.be.ico",
     "slug": "amp-kia-be",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 872,
-    "timeDay": 767,
-    "timeWeek": 775,
-    "timeMonth": 826,
+    "time": 871,
+    "timeDay": 739,
+    "timeWeek": 767,
+    "timeMonth": 822,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2023-03-15": 0
+      "2023-03-15": 5
     }
   },
   {
