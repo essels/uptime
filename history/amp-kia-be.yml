@@ -1,7 +1,7 @@
 url: https://accessoires-kia.be
-status: up
-code: 200
-responseTime: 613
-lastUpdated: 2023-05-26T23:05:47.756Z
+status: down
+code: 502
+responseTime: 3947
+lastUpdated: 2023-05-27T10:46:32.700Z
 startTime: Thu Dec 31 2020 17:31:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
